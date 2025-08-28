@@ -30,8 +30,8 @@ def getweather(event=None):  # Accept event from bind
             f"\nLongitude: {longitude}"
             f"\nTimeZone: {timezone}"
             f"\nLocal Time: {localtime}"
-            f"\nTemp_c: {temp_c} C"
-            f"\nTemp_f:{temp_f} F"
+            f"\nTemp_c: {temp_c} ゜C"
+            f"\nTemp_f:{temp_f} ゜F"
             f"\nPressure: {pressure} mb"
             f"\nHumidity: {humidity}%"
             f"\nWind Speed: {wind} kph"
@@ -43,7 +43,7 @@ def getweather(event=None):  # Accept event from bind
     except Exception as e:
         label1.config(text="Error fetching data")
         label2.config(text=str(e))
-
+ 
 
 # API Key (your key)
 api_key = 'ad3a040492cf4eef860121635250408'
