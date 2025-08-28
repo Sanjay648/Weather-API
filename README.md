@@ -71,5 +71,7 @@ label2.pack()
 
 canvas.mainloop()
 # Output Screen 
+<img width="602" height="632" alt="Screenshot 2025-08-28 135455" src="https://github.com/user-attachments/assets/928d9eeb-10c3-437f-84d9-7d7cce181c25" />
+
 <img width="602" height="631" alt="Screenshot 2025-08-28 134212" src="https://github.com/user-attachments/assets/7fb8bbb1-4ab4-46ed-a100-63bc569eda6f" />
 
