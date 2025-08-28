@@ -70,3 +70,6 @@ label2 = tk.Label(canvas, font=f)
 label2.pack()
 
 canvas.mainloop()
+# Output Screen 
+<img width="602" height="631" alt="Screenshot 2025-08-28 134212" src="https://github.com/user-attachments/assets/7fb8bbb1-4ab4-46ed-a100-63bc569eda6f" />
+
